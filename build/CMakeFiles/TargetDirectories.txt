@@ -1,0 +1,5 @@
+/Users/cthornberry/projects/atelierEngine/build/CMakeFiles/edit_cache.dir
+/Users/cthornberry/projects/atelierEngine/build/CMakeFiles/rebuild_cache.dir
+/Users/cthornberry/projects/atelierEngine/build/src/CMakeFiles/atelierEngine.dir
+/Users/cthornberry/projects/atelierEngine/build/src/CMakeFiles/edit_cache.dir
+/Users/cthornberry/projects/atelierEngine/build/src/CMakeFiles/rebuild_cache.dir

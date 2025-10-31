@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/cthornberry/projects/atelierEngine/build/cmake_install.cmake",
+		"/Users/cthornberry/projects/atelierEngine/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

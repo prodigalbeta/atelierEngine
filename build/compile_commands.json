@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/cthornberry/projects/atelierEngine/build/src",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include  -arch arm64 -o CMakeFiles/atelierEngine.dir/main.cpp.o -c /Users/cthornberry/projects/atelierEngine/src/main.cpp",
+  "file": "/Users/cthornberry/projects/atelierEngine/src/main.cpp",
+  "output": "src/CMakeFiles/atelierEngine.dir/main.cpp.o"
+}
+]
