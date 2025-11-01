@@ -21,7 +21,6 @@ int main (int argc, char *argv[]) {
     cleanup(win);
     return 1;
   }
-  std::cout << "Hello World!\n";
 
   //starting the game loop
   bool running = true;
